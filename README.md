@@ -5,7 +5,7 @@ This project is currently in progress, and is a comprehensive algorithmic tradin
 Please fork this repository and submit a pull request.
 
 ### Fork the Project
-Create your Feature Branch (git checkout -b feature/YourFeature)
-Commit your Changes (git commit -m 'Add some feature')
-Push to the Branch (git push origin feature/YourFeature)
-Open a Pull Request
+- Create your Feature Branch (git checkout -b feature/YourFeature)
+- Commit your Changes (git commit -m 'Add some feature')
+- Push to the Branch (git push origin feature/YourFeature)
+- Open a Pull Request
