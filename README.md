@@ -9,3 +9,5 @@ Interested? You're welcome to fork this repository and submit a pull request :)
 - Commit your Changes (git commit -m 'Add some feature')
 - Push to the Branch (git push origin feature/YourFeature)
 - Open a Pull Request
+
+![‘The-September-Effect](https://github.com/user-attachments/assets/28ddb2ec-4005-4db9-a4ac-cbc8efa80804)
