@@ -2,7 +2,7 @@
 This project is currently in progress, and is a comprehensive algorithmic trading system built in Python. It allows you to collect financial data, preprocess it, implement trading strategies, backtest them, and execute trades in real-time with a broker's API. The system is modular, enabling you to customize and expand it as needed.
 
 ## Contributions are welcome! 
-Please fork this repository and submit a pull request.
+Interested? You're welcome to fork this repository and submit a pull request :)
 
 ### Fork the Project
 - Create your Feature Branch (git checkout -b feature/YourFeature)
